@@ -1,5 +1,4 @@
 // Shimming 预设全局变量
-// import _ from 'lodash'
 // console.log(_.join(['hello', 'webpack'], ' '))
 
 // 细粒度 Shimming
